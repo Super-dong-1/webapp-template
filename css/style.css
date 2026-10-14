@@ -1,0 +1,7 @@
+/* 页面样式写在这里 */
+body {
+  font-family: sans-serif;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
